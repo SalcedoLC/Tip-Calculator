@@ -6,5 +6,5 @@ A simple Python program that calculates how much each person should pay when spl
 
 **How to Run:**
 1. Clone the repository.
-2. Run the `Tip_Calculator.py` script in a Python environment.
+2. Run the 'Tip_Calculator.py' script in a Python environment.
 3. Enter the required inputs when prompted.
