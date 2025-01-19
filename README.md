@@ -1,6 +1,7 @@
 # Tip Calculator
 
 **Description:**
+
 A simple Python program that calculates how much each person should pay when splitting a bill, including the tip percentage selected by the user.
 
 **How to Run:**
